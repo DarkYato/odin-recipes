@@ -1,3 +1,3 @@
 # odin-recipes
-This is a small TOP project about food recipes!
-It will consist of a website with links to various food recipes. By the end of this project I hope to have a running website.
+This is my first TOP project about food recipes!
+I have created a website which contains my favorite food recipes. Separate pages are created for different recipes and are linked to the main page.
