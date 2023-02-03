@@ -1,0 +1,23 @@
+body {
+    background-color: #111827;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 18px;
+    margin-left: 400px;
+    margin-right: 800px;
+}
+
+.heading {
+    font-family:'Gill Sans', sans-serif;
+    color: #ff4500;
+}
+
+a:link{
+    color:#ff4500;
+}
+
+a:visited{
+    color:#ff4500;
+}
+
