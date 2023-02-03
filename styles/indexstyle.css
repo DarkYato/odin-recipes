@@ -1,0 +1,33 @@
+body {
+    background-color: #111827;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 22px;
+}
+
+a:link{
+    color:white;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
+
+a:visited{
+    color:white;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
+
+.centreul{
+    display:inline-block;
+    text-align: left;
+}
+
+.warning {
+    color:#ec008c;
+    font-weight: 700;
+}
+
+.heading {
+    color: yellow;
+}
